@@ -3,6 +3,7 @@
  * MIT license (https://opensource.org/licenses/MIT)
  * W. https://svgartista.net
  **************************************************/
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 437.45 349.06" width="437.45001220703125" height="349.05999755859375"><defs><style>.cls-1{font-size:201px;}.cls-1,.cls-4{font-family:Pristina-Regular, Pristina;}.cls-2,.cls-5{fill:none;stroke-miterlimit:10;}.cls-2{stroke:#fff;stroke-width:14px;}.cls-3{fill:#27952c;}.cls-4{font-size:60px;}.cls-5{stroke:#000;stroke-width:3px;}</style></defs><title>logosims</title><text class="cls-1" transform="translate(93.1 227.63)">mil</text><line class="cls-2 svg-elem-1" x1="268.97" y1="114.43" x2="245.73" y2="135.17"></line><polygon class="cls-3 svg-elem-2" points="277.23 65.73 243.72 92.44 257.22 132.79 289.38 108.35 277.23 65.73"></polygon><text class="cls-4" transform="translate(234.11 92.1) rotate(17.19)">/</text><text class="cls-4" transform="matrix(-0.96, -0.3, -0.3, 0.96, 284.93, 107.82)">/</text><text class="cls-4" transform="translate(245.91 136.14) rotate(17.19)">/</text><text class="cls-4" transform="matrix(-0.96, -0.3, -0.3, 0.96, 250.32, 137.5)">/</text><polygon class="cls-5 svg-elem-3" points="2.4 175.38 219.4 1.92 435.04 174.53 217.39 347.15 2.4 175.38"></polygon></svg>
 
 svg .svg-elem-1 {
   stroke-dashoffset: 33.14876174926758px;
